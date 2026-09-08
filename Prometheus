@@ -18,7 +18,7 @@ Node Exporter версии 1.4.0 успешно установлен и запу
 Node Exporter успешно подключен к серверу Prometheus в качестве объекта мониторинга (таргета).
 
 ### Вкладка Status > Configuration:
-![Конфигурация](prometheus_config.png)
+![Конфигурация](prometheus_config.png.png)
 
 ### Вкладка Status > Targets (эндпоинты в статусе UP):
-![Таргеты](prometheus_targets.png)
+![Таргеты](prometheus_targets.png.png)
