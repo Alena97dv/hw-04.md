@@ -3,14 +3,14 @@
 ## Задание 1
 Prometheus успешно установлен, настроен в качестве системной службы `systemd` от имени пользователя `prometheus` и проверен на команды управления.
 
-![Задание 1](prometheus_status.png)
+https://github.com/Alena97dv/hw-04.md/blob/main/prometheus_status.png
 
 ---
 
 ## Задание 2
 Node Exporter версии 1.4.0 успешно установлен и запущен в качестве системной службы `systemd` на целевом хосте. Статус службы — активен (running).
 
-![Задание 2](node_exporter_status.png)
+https://github.com/Alena97dv/hw-04.md/blob/main/node_exporter_status.png
 
 ---
 
@@ -18,7 +18,7 @@ Node Exporter версии 1.4.0 успешно установлен и запу
 Node Exporter успешно подключен к серверу Prometheus в качестве объекта мониторинга (таргета).
 
 ### Вкладка Status > Configuration:
-![Конфигурация](prometheus_config.png.png)
+https://github.com/Alena97dv/hw-04.md/blob/main/prometheus_config.png.png
 
 ### Вкладка Status > Targets (эндпоинты в статусе UP):
-![Таргеты](prometheus_targets.png.png)
+https://github.com/Alena97dv/hw-04.md/blob/main/prometheus_targets.png.png
