@@ -21,9 +21,11 @@
 - Прикрепите скриншот Alerts из Prometheus, где правило оповещения будет в статусе Firing, и скриншот из Alertmanager, где будет видно действующее правило оповещения.
 
 скриншот Alerts из Prometheus, где правило оповещения будет в статусе Firing:
-https://github.com/Alena97dv/hw-04.md/blob/main/Снимок%20экрана%202026-09-13%20143503.png
+![Скриншот 2](https://github.com/Alena97dv/hw-04.md/blob/main/Снимок%20экрана%202026-09-13%20143503.png)
+
 скриншот из Alertmanager, где будет видно действующее правило оповещения:
-https://github.com/Alena97dv/hw-04.md/blob/main/Снимок%20экрана%202026-09-13%20143558.png
+![Скриншот 3](https://github.com/Alena97dv/hw-04.md/blob/main/Снимок%20экрана%202026-09-13%20143558.png)
+
 
 ## Задание 3
 
@@ -34,6 +36,8 @@ https://github.com/Alena97dv/hw-04.md/blob/main/Снимок%20экрана%2020
 - Приложите скриншот браузера с открытым эндпоинтом, а также скриншот списка таргетов из интерфейса Prometheus.
 
 скриншот браузера с открытым эндпоинтом:
-https://github.com/Alena97dv/hw-04.md/blob/main/Снимок%20экрана%202026-09-13%20152557.png
+![Скриншот 4](https://github.com/Alena97dv/hw-04.md/blob/main/Снимок%20экрана%202026-09-13%20152557.png)
+
 скриншот списка таргетов из интерфейса Prometheus:
-https://github.com/Alena97dv/hw-04.md/blob/main/Снимок%20экрана%202026-09-13%20153116.png
+![Скриншот 5](https://github.com/Alena97dv/hw-04.md/blob/main/Снимок%20экрана%202026-09-13%20153116.png)
+
