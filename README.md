@@ -14,7 +14,7 @@
 https://github.com/Alena97dv/hw-04.md/blob/main/Снимок%20экрана%202026-09-13%20142152.png
 
 ## Задание 2
-**Установите Alertmanager и интегрируйте его с Prometheus.
+**Установите Alertmanager и интегрируйте его с Prometheus.**
 
 **Требования к результату:**
 
